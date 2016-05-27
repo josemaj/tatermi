@@ -1,5 +1,5 @@
 # tatermi.py Prepare a reST-formatted article for publication
-#Copyright (c)  2007, 2008, 2010, 2013, 2014 Free Software Foundation, Inc.
+#Copyright © 2014, 2015, 2016 Free Software Foundation , Inc.
 # Written by josemaj
 #
 # This program creates and deletes a lot of files in the current directory.
