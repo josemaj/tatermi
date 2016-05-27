@@ -1,8 +1,7 @@
 # tatermi 
 #all code for tatermi is under license gnu gpl you can freely use it for whatever you want 
 
-This article, "A Quick Guide to GPLv3," is Copyright (c) 2007 Free Software
-Foundation, Inc.  Verbatim copying and distribution of this entire article
+This article, "A Quick Guide to GPLv3," is  Copyright © 2014, 2015, 2016 Free Software Foundation, Inc.  Verbatim copying and distribution of this entire article
 are permitted worldwide, without royalty, in any medium, provided this
 notice is preserved. 
 
