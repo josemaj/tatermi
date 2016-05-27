@@ -1,2 +1,2 @@
 # tatermi 
-#todo el codigo de tatermi esta bajo licencia gnu usted puede usarlo libremente  para lo que quiera  
+#all code for tatermi is under license gnu you can freely use it for whatever you want
