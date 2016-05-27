@@ -1,0 +1,74 @@
+# programmed in python 
+# by  josemaj 
+# published 27-5-2016 
+
+
+life = 100
+money = 50 
+food = 50 
+print "if you need help write sos"
+while (life >= 0): 
+ print " ^^^^^ "
+ print "( 0 0 )"
+ print "   !   "
+ print " |___| "
+ print " |   | "      
+ 
+ question = raw_input("Order me something or ask something :" )
+ 
+ if question == "eat": 
+  print " eating "
+  print " delicious " 
+  food -=1 
+  life +=2    
+ if question == "buy":  
+   print "buying"
+   money -=1
+   food +=2  
+ if question == "work": 
+   print "working" 
+   em = 5  
+   while(em >=0 ): 
+    em -=1 
+    print em  
+   money +=5 
+   life -=2 
+   print " finished work "
+   print " do you have " 
+   print  money  
+ if question == "status":   
+     print " ^^^^^"
+     print "( 0 0 )"
+     print "   !  " 
+     print " |___|"  
+     print " |___|"
+   
+     print "my state is:" 
+     print "life:"  
+     print  life
+     print "money:"
+     print  money
+     print "food: " 
+     print  food
+ if question == "life":
+   print life 
+ if question == "sos":   
+  print " command "
+  print "life shows you your life "
+  print " status : tells you how are you all -_- "
+  print " works : work to get money &_&"
+  print " buy : buy food T_T "
+  print "eat"
+
+ if question == "suicide": 
+  life -=10000    
+ 
+ 
+ life -=1 
+
+print " ___ "
+print "[   ]" 
+print "|RIP|"
+print "|   |" 
+print "|___|"
+         
