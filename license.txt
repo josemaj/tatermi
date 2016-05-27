@@ -1,7 +1,7 @@
 # tatermi.py Prepare a reST-formatted article for publication
 #Copyright © 2014, 2015, 2016 Free Software Foundation , Inc.
 # Written by josemaj
-#
+#This file is part of tatermi.py
 # This program creates and deletes a lot of files in the current directory.
 # You should not run it inside a directory that has files that are not part
 # of an article.
