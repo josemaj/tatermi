@@ -3,7 +3,7 @@
 # published 27-5-2016 
 #everything is under  GNU General Public License
 #http://www.gnu.org/licenses/gpl-3.0.html
-
+# read the license.txt 
 life = 100
 money = 50 
 food = 50 
