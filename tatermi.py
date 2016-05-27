@@ -1,5 +1,6 @@
 # programmed in python 
 # by  josemaj 
+#Copyright 2016 josemaj
 # published 27-5-2016 
 #everything is under  GNU General Public License
 #http://www.gnu.org/licenses/gpl-3.0.html
