@@ -61,7 +61,21 @@ while (life >= 0):
   print " works : work to get money &_&"
   print " buy : buy food T_T "
   print "eat"
-
+ if question == "sleep": 
+    
+   print " ^^^^^ "
+   print "( _ _ ) "
+   print "   !    z " 
+   print " |___| z "  
+   print " |___|z "  
+   life +=5  
+   z = 0 
+   while(z <= 0):
+     a = raw_input(":") 
+     if a == "up":
+       z += 2  
+     if a =="help" 
+      print "write up" 
  if question == "suicide": 
   life -=10000    
  
