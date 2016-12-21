@@ -74,7 +74,7 @@ while (life >= 0):
      a = raw_input(":") 
      if a == "up":
        z += 2  
-     if a =="help" 
+     if a == "help": 
       print "write up" 
  if question == "suicide": 
   life -=10000    
