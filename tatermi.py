@@ -5,7 +5,7 @@
 #everything is under  GNU General Public License
 #http://www.gnu.org/licenses/gpl-3.0.html
 # read the license.txt and README.md 
-life = 100
+life = 60
 money = 50 
 food = 50 
 print "if you need help write sos"
